@@ -1,0 +1,3 @@
+[submodule "obsidian-typst"]
+	path = obsidian-typst
+	url = https://github.com/fenjalien/obsidian-typst.git

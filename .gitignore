@@ -1,0 +1,14 @@
+/target
+.envrc
+.direnv
+
+/node_modules
+/dist
+/pkg
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
