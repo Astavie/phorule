@@ -1,17 +1,17 @@
 {
-  "name": "pkg-placeholder",
+  "name": "phorule",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@8.11.0",
-  "description": "_description_",
+  "description": "Sound Change Applier library",
   "author": "Astavie <astavie@pm.me>",
   "license": "MIT",
-  "homepage": "https://github.com/astavie/pkg-placeholder#readme",
+  "homepage": "https://github.com/astavie/phorule#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astavie/pkg-placeholder.git"
+    "url": "git+https://github.com/astavie/phorule.git"
   },
-  "bugs": "https://github.com/astavie/pkg-placeholder/issues",
+  "bugs": "https://github.com/astavie/phorule/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
